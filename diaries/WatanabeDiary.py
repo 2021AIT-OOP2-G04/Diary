@@ -10,5 +10,4 @@ class WatanabeDiary(AbstractDiary):
         英語のテストの点があまり良くなかった。"""
 
     def get_author(self):
-        return super().get_author()(self)
         return "Watanabe"
