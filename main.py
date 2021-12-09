@@ -5,6 +5,7 @@ from diaries.K20014Diary import K20014Diary
 diaries = [
     DiarySample(),
     K20014Diary(),
+    K20014Diary()
 ]
 
 for d in diaries:
