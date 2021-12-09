@@ -15,6 +15,7 @@ diaries = [
     AonoDiary(),
     WatanabeDiary()
   　K20119diary()
+
 ]
 
 
