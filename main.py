@@ -7,8 +7,8 @@ from diaries.K20014Diary import K20014Diary
 diaries = [
     DiarySample(),
     K20014Diary(),
-  　WatanabeDiary()
-  　OnzawaDiary(),
+    WatanabeDiary(),
+    OnzawaDiary(),
 ]
 
 
