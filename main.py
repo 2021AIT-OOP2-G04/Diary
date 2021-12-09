@@ -10,6 +10,7 @@ from diaries.aonoDiary import AonoDiary
 diaries = [
     DiarySample(),
     K20014Diary(),
+    OnzawaDiary(),
     K20054Diary(),
     AonoDiary(),
     WatanabeDiary()
