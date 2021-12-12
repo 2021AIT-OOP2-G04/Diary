@@ -11,17 +11,13 @@ from diaries.K20047Diary import K20047Diary
 diaries = [
     DiarySample(),
     K20014Diary(),
-    K20014Diary(),
     K20047Diary(),
     OnzawaDiary(),
     K20054Diary(),
     AonoDiary(),
     WatanabeDiary(),
-    K20119diary()
-
+    K20119diary(),
 ]
-
-
 
 for d in diaries:
     print("-------------------------")
