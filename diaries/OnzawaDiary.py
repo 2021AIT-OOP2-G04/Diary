@@ -2,6 +2,7 @@ from diaries.AbstractDiary import AbstractDiary
 
 class OnzawaDiary(AbstractDiary):
 
+
     def get_data(self):
         return "2021-12-09"
 
