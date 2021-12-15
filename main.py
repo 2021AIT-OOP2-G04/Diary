@@ -16,7 +16,7 @@ diaries = [
     K20054Diary(),
     AonoDiary(),
     WatanabeDiary(),
-    K20119diary(),
+    K20119diary()
 ]
 
 for d in diaries:
