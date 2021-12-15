@@ -1,6 +1,6 @@
 from diaries.AbstractDiary import AbstractDiary
 
-class K20014Diary(AbstractDiary):
+class K20047Diary(AbstractDiary):
 
     def get_date(self):
         return "2021-12-09"
@@ -9,4 +9,4 @@ class K20014Diary(AbstractDiary):
         return """初めてのグループワーク"""
 
     def get_author(self):
-        return "K20014"
+        return "K20047"
